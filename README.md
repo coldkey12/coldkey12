@@ -20,3 +20,5 @@ You can reach out to me on [LinkedIn](https://www.linkedin.com) or via email at 
 ## GitHub Activity Graph
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=coldkey12&theme=react-dark)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=coldkey12&theme=react-dark)
+
