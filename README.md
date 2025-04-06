@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi! I'm **Vladimir**
 
-<!--
-**coldkey12/coldkey12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Currently working on **[jas-ai.kz](https://jas-ai.kz)**  
+Pursuing Computer Science at **KBTU**  
 
-Here are some ideas to get you started:
+You can reach out to me on [LinkedIn](https://www.linkedin.com) or via email at **donnvladimir70@gmail.com**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Fun fact:** I can play the guitar backwards. 🎸
+
+---
+
+## GitHub Stats
+
+![coldkey12's GitHub Stats](https://github-readme-stats.vercel.app/api?username=coldkey12&show_icons=true&theme=tokyonight)
+
+## Top Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=coldkey12&layout=compact&theme=tokyonight)
+
+## GitHub Activity Graph
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=coldkey12&theme=react-dark)
