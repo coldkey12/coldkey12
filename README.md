@@ -1,6 +1,5 @@
 # Hi! I'm **Vladimir**
 
-Currently working on **[jas-ai.kz](https://jas-ai.kz)**  and **[ktib.kz](https://ktib.kz)**  
 Pursuing Computer Science at **KBTU**  
 
 You can reach out to me on [LinkedIn](https://www.linkedin.com) or via email at **donnvladimir70@gmail.com**.
